@@ -1,1 +1,1 @@
-# socialm-dia-mern-
+# social-media-mern
